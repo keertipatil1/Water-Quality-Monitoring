@@ -1,0 +1,1001 @@
+R,G,B,Tag
+93,87,84,Control
+113,89,49,Medium
+100,108,56,Very Low
+108,103,52,Low
+91,85,79,Control
+124,84,54,Medium-High
+113,101,55,Medium
+111,81,46,High
+112,101,43,Low
+124,75,48,High
+108,110,51,Low
+115,96,49,Medium
+96,101,48,Very Low
+91,103,48,Very Low
+96,102,48,Very Low
+104,99,53,Low
+109,85,52,Medium-High
+76,86,87,Control
+114,91,48,Medium
+102,98,59,Medium
+109,102,44,Low
+91,89,88,Control
+115,97,61,Medium
+124,83,56,Medium-High
+109,95,45,Medium
+108,98,59,Medium
+101,101,55,Very Low
+122,80,41,High
+88,105,51,Very Low
+93,86,91,Control
+100,108,42,Low
+97,102,45,Low
+106,87,55,Medium
+97,105,44,Very Low
+97,104,41,Low
+100,110,47,Very Low
+110,87,38,High
+128,74,47,High
+110,90,65,Medium-High
+119,87,55,Medium-High
+122,90,56,Medium-High
+84,90,81,Control
+83,74,88,Control
+113,87,40,High
+119,93,57,Medium-High
+80,83,87,Control
+111,85,59,Medium-High
+99,99,50,Low
+109,89,43,Medium
+108,93,54,Medium
+121,79,51,Medium-High
+113,102,52,Medium
+107,89,61,Medium-High
+96,104,40,Low
+93,105,46,Very Low
+97,112,48,Very Low
+109,105,53,Low
+106,93,54,Medium
+122,93,58,Medium-High
+118,85,58,Medium-High
+107,106,53,Low
+103,110,48,Very Low
+122,86,55,Medium-High
+105,97,55,Medium
+122,81,44,High
+120,90,55,Medium-High
+113,87,52,Medium-High
+108,97,47,Low
+132,93,45,High
+107,95,59,Medium
+85,89,88,Control
+106,106,45,Low
+103,82,54,Medium-High
+114,77,64,Medium-High
+110,94,46,Medium
+111,101,51,Low
+122,96,48,High
+92,84,84,Control
+111,95,47,Medium
+121,93,55,Medium-High
+85,78,90,Control
+107,87,62,Medium-High
+104,93,48,Medium
+78,97,84,Control
+113,87,56,Medium-High
+104,85,54,Medium
+113,73,60,Medium-High
+101,92,56,Medium
+97,109,51,Very Low
+93,105,57,Very Low
+113,82,56,Medium-High
+92,106,48,Very Low
+127,89,48,High
+115,86,53,Medium-High
+101,114,42,Very Low
+121,75,49,High
+120,94,37,High
+91,87,89,Control
+82,93,83,Control
+122,77,45,High
+104,102,45,Low
+83,87,78,Control
+109,100,64,Medium
+105,110,54,Very Low
+105,102,57,Low
+103,97,52,Low
+106,98,50,Low
+133,89,47,High
+104,101,56,Low
+110,97,55,Medium
+102,96,38,Low
+108,104,42,Low
+83,78,79,Control
+130,88,48,High
+99,101,46,Low
+112,76,60,Medium-High
+121,88,56,Medium-High
+111,85,45,High
+83,80,84,Control
+82,96,86,Control
+111,83,48,High
+98,110,41,Very Low
+122,80,46,High
+113,84,37,High
+106,104,45,Low
+120,84,63,Medium-High
+110,104,40,Low
+120,95,49,High
+115,92,47,Medium
+81,80,77,Control
+82,87,86,Control
+74,91,86,Control
+114,78,64,Medium-High
+104,102,38,Low
+95,102,46,Very Low
+90,99,51,Very Low
+80,85,89,Control
+95,104,51,Very Low
+109,93,55,Medium
+123,78,57,Medium-High
+111,86,53,Medium-High
+102,97,41,Low
+116,82,48,High
+74,87,90,Control
+107,89,51,Medium
+100,92,65,Medium
+108,84,46,Medium
+111,104,52,Low
+83,83,82,Control
+97,108,37,Low
+124,78,50,High
+115,83,40,High
+108,93,42,Low
+101,105,48,Low
+120,87,46,High
+99,110,57,Very Low
+108,96,45,Low
+122,80,52,Medium-High
+111,77,50,Medium-High
+123,87,58,Medium-High
+104,114,48,Very Low
+122,85,38,High
+120,77,49,High
+103,95,46,Low
+73,84,84,Control
+112,88,54,Medium-High
+118,83,50,High
+84,88,85,Control
+92,83,87,Control
+115,92,68,Medium-High
+87,106,39,Very Low
+103,95,39,Low
+108,85,53,Medium-High
+118,85,54,Medium-High
+99,106,42,Low
+76,84,95,Control
+114,83,44,High
+116,93,51,Medium
+121,81,38,High
+96,114,43,Very Low
+87,87,94,Control
+99,111,57,Very Low
+113,87,55,Medium-High
+88,103,50,Very Low
+123,94,47,High
+81,85,94,Control
+116,76,58,Medium-High
+89,83,77,Control
+107,98,46,Low
+82,82,88,Control
+98,111,42,Very Low
+109,87,55,Medium-High
+97,116,58,Very Low
+120,79,48,High
+92,93,49,Very Low
+106,76,54,Medium-High
+120,92,50,High
+104,104,46,Low
+103,99,42,Low
+81,74,93,Control
+79,86,92,Control
+132,86,38,High
+118,83,50,High
+104,112,47,Very Low
+120,81,44,High
+111,88,57,Medium-High
+76,83,90,Control
+105,108,56,Very Low
+120,93,40,High
+111,85,58,Medium-High
+91,106,60,Very Low
+104,91,46,Medium
+71,87,77,Control
+121,98,54,Medium
+120,87,52,High
+122,86,40,High
+110,79,56,Medium-High
+111,81,48,High
+89,105,47,Very Low
+110,81,65,Medium-High
+113,84,54,Medium-High
+108,84,54,Medium-High
+119,85,61,Medium-High
+111,90,48,Medium
+83,93,82,Control
+100,98,55,Very Low
+99,98,47,Low
+119,78,46,High
+113,92,54,Medium
+110,89,51,Medium
+90,106,57,Very Low
+121,87,47,High
+108,84,56,Medium-High
+107,89,57,Medium
+104,100,47,Low
+107,92,49,Medium
+112,80,58,Medium-High
+112,90,46,Medium
+116,84,52,Medium-High
+126,92,45,High
+105,107,61,Very Low
+103,109,52,Very Low
+91,110,48,Very Low
+110,93,46,Medium
+100,107,50,Very Low
+115,92,46,High
+103,104,58,Very Low
+108,98,55,Medium
+119,84,57,Medium-High
+123,87,43,High
+81,76,87,Control
+109,86,45,High
+101,115,53,Very Low
+99,110,39,Low
+115,84,48,High
+109,83,64,Medium-High
+108,87,51,Medium
+105,92,48,Medium
+107,104,48,Low
+78,86,89,Control
+127,83,51,High
+100,104,42,Low
+95,113,49,Very Low
+118,78,58,Medium-High
+99,104,44,Low
+110,96,49,Medium
+80,74,86,Control
+96,105,48,Very Low
+82,85,97,Control
+105,86,66,Medium-High
+110,91,57,Medium
+96,106,46,Very Low
+113,86,44,High
+108,90,45,Medium
+95,104,39,Low
+113,87,36,High
+103,106,39,Low
+103,101,45,Low
+106,104,49,Low
+85,81,92,Control
+101,94,52,Medium
+120,95,41,High
+122,87,46,High
+109,104,45,Low
+120,88,57,Medium-High
+123,88,52,High
+82,89,94,Control
+101,110,51,Very Low
+105,104,52,Low
+109,88,53,Medium
+96,102,50,Very Low
+103,99,49,Low
+107,90,63,Medium-High
+99,101,46,Low
+104,97,52,Low
+132,85,55,High
+83,86,85,Control
+108,85,54,Medium-High
+117,77,45,High
+94,109,51,Very Low
+107,93,54,Medium
+125,78,49,High
+85,80,84,Control
+109,112,48,Low
+75,81,88,Control
+87,106,44,Very Low
+107,98,49,Low
+100,101,45,Low
+85,83,92,Control
+97,105,50,Very Low
+122,82,40,High
+132,87,54,High
+103,91,59,Medium
+113,87,52,Medium-High
+123,90,37,High
+111,101,47,Low
+106,101,45,Low
+104,100,55,Low
+78,88,88,Control
+91,104,41,Very Low
+83,80,76,Control
+97,104,48,Very Low
+76,85,84,Control
+90,86,89,Control
+111,94,54,Medium
+109,89,44,Medium
+83,92,91,Control
+117,81,54,Medium-High
+109,90,47,Medium
+90,108,51,Very Low
+120,79,50,High
+91,108,49,Very Low
+120,87,49,High
+130,85,43,High
+108,89,60,Medium-High
+110,107,40,Low
+77,76,86,Control
+103,95,53,Medium
+109,93,51,Medium
+83,84,95,Control
+81,95,79,Control
+108,93,59,Medium
+118,87,67,Medium-High
+111,108,49,Low
+114,104,51,Low
+93,106,46,Very Low
+110,91,60,Medium
+114,95,45,Medium
+96,112,50,Very Low
+113,86,54,Medium-High
+112,88,59,Medium-High
+115,97,50,Medium
+99,106,47,Very Low
+105,87,56,Medium
+96,103,51,Very Low
+96,100,48,Very Low
+111,79,49,Medium-High
+112,84,68,Medium-High
+113,82,48,High
+111,89,52,Medium
+107,99,50,Low
+107,89,53,Medium
+121,83,63,Medium-High
+97,98,46,Low
+120,80,46,High
+120,93,48,High
+109,106,48,Low
+87,86,78,Control
+124,87,45,High
+116,91,60,Medium-High
+101,106,58,Very Low
+95,99,48,Very Low
+85,90,95,Control
+110,105,49,Low
+122,93,48,High
+118,83,36,High
+98,112,46,Very Low
+94,86,89,Control
+100,110,41,Low
+86,86,84,Control
+92,103,37,Low
+119,83,56,Medium-High
+122,92,45,High
+130,85,47,High
+103,107,52,Very Low
+98,110,48,Very Low
+111,90,58,Medium-High
+112,87,57,Medium-High
+97,103,50,Very Low
+81,77,78,Control
+111,92,47,Medium
+106,83,62,Medium-High
+104,77,54,Medium-High
+77,91,87,Control
+105,106,56,Very Low
+114,91,53,Medium
+82,89,84,Control
+116,85,55,Medium-High
+89,84,87,Control
+104,97,47,Low
+82,91,80,Control
+100,99,54,Very Low
+115,84,43,High
+101,118,47,Very Low
+120,96,56,Medium
+106,102,54,Low
+102,85,57,Medium
+98,100,47,Low
+108,105,43,Low
+104,97,54,Medium
+110,90,53,Medium
+75,85,77,Control
+115,73,47,High
+115,83,47,High
+94,97,45,Low
+89,86,86,Control
+88,83,81,Control
+107,105,42,Low
+97,102,42,Low
+116,85,64,Medium-High
+98,96,49,Low
+109,100,49,Low
+116,99,52,Medium
+108,105,47,Low
+110,94,47,Medium
+112,77,66,Medium-High
+108,86,63,Medium-High
+94,101,40,Low
+124,82,46,High
+122,86,37,High
+100,98,47,Low
+104,99,54,Low
+108,84,48,Medium
+115,86,43,High
+102,105,45,Low
+100,105,57,Very Low
+114,83,54,Medium-High
+103,97,54,Medium
+103,103,55,Very Low
+89,107,40,Very Low
+109,98,46,Low
+84,86,86,Control
+91,101,49,Very Low
+104,99,48,Low
+91,101,48,Very Low
+118,83,54,Medium-High
+119,79,48,High
+80,74,86,Control
+107,91,47,Medium
+91,107,46,Very Low
+85,87,77,Control
+111,84,38,High
+103,100,52,Low
+78,80,88,Control
+103,90,58,Medium
+127,83,43,High
+116,86,64,Medium-High
+99,105,41,Low
+85,93,87,Control
+84,84,93,Control
+107,94,56,Medium
+107,104,43,Low
+108,97,50,Medium
+110,101,37,Low
+99,107,47,Very Low
+116,85,58,Medium-High
+92,113,49,Very Low
+88,84,85,Control
+99,104,53,Very Low
+117,92,63,Medium-High
+103,102,49,Low
+99,98,49,Low
+106,99,51,Low
+111,79,45,High
+96,105,48,Very Low
+86,86,94,Control
+97,116,48,Very Low
+83,76,92,Control
+118,85,47,High
+113,86,58,Medium-High
+90,93,85,Control
+112,86,49,Medium
+106,94,54,Medium
+104,83,58,Medium-High
+123,90,36,High
+103,99,56,Low
+85,73,85,Control
+96,113,41,Very Low
+123,80,57,Medium-High
+125,84,45,High
+118,89,57,Medium-High
+107,90,49,Medium
+106,107,41,Low
+98,111,38,Low
+124,87,38,High
+112,73,62,Medium-High
+111,91,47,Medium
+102,112,49,Very Low
+99,111,46,Very Low
+107,82,57,Medium-High
+113,93,58,Medium
+111,87,52,Medium
+120,95,52,Medium
+79,82,84,Control
+106,92,45,Medium
+108,102,55,Low
+85,84,91,Control
+105,90,43,Medium
+81,78,85,Control
+119,75,55,Medium-High
+113,90,58,Medium-High
+96,114,47,Very Low
+111,94,59,Medium
+107,94,59,Medium
+120,85,58,Medium-High
+113,86,52,Medium-High
+108,90,59,Medium
+95,107,57,Very Low
+102,85,56,Medium
+123,81,54,Medium-High
+108,99,64,Medium
+114,82,48,High
+122,89,54,Medium-High
+114,94,61,Medium
+108,82,58,Medium-High
+128,83,41,High
+121,82,39,High
+91,115,48,Very Low
+112,86,52,Medium-High
+84,78,78,Control
+81,85,90,Control
+108,103,49,Low
+110,90,53,Medium
+122,78,56,Medium-High
+85,83,87,Control
+120,79,48,High
+131,85,42,High
+86,94,88,Control
+93,106,38,Very Low
+118,93,54,Medium
+89,114,49,Very Low
+102,105,41,Low
+124,78,43,High
+113,97,46,Medium
+97,112,50,Very Low
+107,101,47,Low
+105,104,36,Low
+101,94,56,Medium
+106,84,56,Medium-High
+83,77,76,Control
+111,91,47,Medium
+103,85,54,Medium
+111,89,52,Medium
+131,86,42,High
+105,109,50,Low
+120,91,54,Medium-High
+92,83,86,Control
+85,77,77,Control
+102,84,50,Medium
+117,73,46,High
+115,81,56,Medium-High
+81,84,88,Control
+87,107,40,Very Low
+83,79,91,Control
+112,75,58,Medium-High
+83,94,94,Control
+85,83,95,Control
+110,75,55,Medium-High
+113,73,60,Medium-High
+105,105,50,Low
+97,106,50,Very Low
+124,80,56,Medium-High
+115,83,55,Medium-High
+110,97,63,Medium
+87,81,86,Control
+87,87,75,Control
+92,106,54,Very Low
+97,102,52,Very Low
+102,95,50,Low
+93,104,45,Very Low
+133,87,55,High
+88,87,79,Control
+112,106,46,Low
+121,83,57,Medium-High
+81,95,86,Control
+100,86,55,Medium
+124,79,45,High
+101,92,55,Medium
+86,87,83,Control
+131,84,55,Medium-High
+108,84,66,Medium-High
+119,86,51,High
+116,92,54,Medium
+116,85,53,Medium-High
+119,91,47,High
+103,99,47,Low
+82,81,96,Control
+109,88,58,Medium-High
+97,113,46,Very Low
+110,115,47,Low
+115,95,63,Medium
+108,101,49,Low
+118,85,58,Medium-High
+74,93,85,Control
+104,100,51,Low
+96,97,57,Very Low
+104,109,47,Low
+127,79,46,High
+97,104,49,Very Low
+86,104,47,Very Low
+105,99,44,Low
+115,84,53,Medium-High
+122,84,48,High
+111,91,61,Medium-High
+114,76,63,Medium-High
+121,84,36,High
+113,92,58,Medium
+111,89,49,Medium
+98,95,52,Low
+114,91,49,Medium
+107,104,51,Low
+106,108,48,Low
+117,89,58,Medium-High
+105,99,42,Low
+117,83,54,Medium-High
+99,109,39,Low
+98,97,49,Low
+105,113,50,Very Low
+119,89,56,Medium-High
+79,87,81,Control
+112,93,63,Medium-High
+101,106,47,Low
+122,89,44,High
+105,109,38,Low
+110,104,54,Low
+83,85,93,Control
+119,103,53,Medium
+79,83,89,Control
+111,87,41,High
+122,78,48,High
+93,105,50,Very Low
+92,87,88,Control
+85,89,86,Control
+97,100,43,Low
+75,84,88,Control
+104,108,59,Very Low
+81,83,87,Control
+76,94,87,Control
+82,87,96,Control
+110,92,55,Medium
+98,114,54,Very Low
+75,87,95,Control
+129,88,47,High
+109,75,57,Medium-High
+111,83,53,Medium-High
+82,89,84,Control
+99,97,41,Low
+104,98,41,Low
+116,84,49,High
+99,105,50,Very Low
+98,93,49,Low
+110,84,53,Medium-High
+109,87,61,Medium-High
+121,80,48,High
+92,106,44,Very Low
+124,85,46,High
+91,102,47,Very Low
+98,90,55,Medium
+106,101,48,Low
+120,88,57,Medium-High
+119,84,40,High
+81,90,83,Control
+99,112,41,Very Low
+119,91,53,Medium-High
+130,84,48,High
+119,94,46,High
+98,96,54,Very Low
+72,85,86,Control
+130,84,54,High
+109,92,52,Medium
+83,83,90,Control
+120,93,45,High
+110,86,49,Medium
+85,76,78,Control
+79,87,74,Control
+92,107,40,Very Low
+111,84,66,Medium-High
+111,84,60,Medium-High
+101,87,56,Medium
+99,117,50,Very Low
+98,108,47,Very Low
+82,87,82,Control
+89,79,84,Control
+94,105,56,Very Low
+79,87,87,Control
+115,80,46,High
+90,108,60,Very Low
+98,104,57,Very Low
+116,90,44,High
+108,86,56,Medium-High
+78,87,84,Control
+120,78,44,High
+105,111,47,Low
+110,91,61,Medium-High
+113,87,53,Medium-High
+87,104,45,Very Low
+115,91,58,Medium-High
+110,80,53,Medium-High
+124,87,38,High
+105,106,54,Low
+98,104,56,Very Low
+102,101,42,Low
+100,104,55,Very Low
+106,90,54,Medium
+112,78,54,Medium-High
+104,97,47,Low
+103,114,48,Very Low
+99,104,55,Very Low
+83,93,93,Control
+110,98,43,Low
+114,78,58,Medium-High
+108,83,53,Medium-High
+120,94,54,Medium
+94,88,88,Control
+90,78,84,Control
+104,103,43,Low
+75,81,86,Control
+97,102,50,Very Low
+96,100,46,Low
+88,83,87,Control
+123,85,61,Medium-High
+107,114,49,Low
+85,81,94,Control
+112,93,53,Medium
+115,93,46,Medium
+93,93,85,Control
+106,102,48,Low
+118,83,47,High
+103,96,55,Medium
+85,87,93,Control
+96,101,42,Low
+109,96,48,Medium
+106,94,54,Medium
+102,108,47,Low
+116,91,60,Medium-High
+115,83,66,Medium-High
+104,112,48,Very Low
+82,91,96,Control
+84,89,96,Control
+107,91,63,Medium
+82,87,86,Control
+87,84,78,Control
+114,92,59,Medium-High
+103,101,53,Low
+107,99,50,Low
+100,112,49,Very Low
+122,86,53,Medium-High
+76,91,85,Control
+110,84,66,Medium-High
+114,93,61,Medium-High
+85,82,84,Control
+113,83,56,Medium-High
+97,101,39,Low
+112,105,51,Low
+97,111,46,Very Low
+109,87,64,Medium-High
+76,85,85,Control
+101,90,46,Medium
+113,91,43,High
+74,78,87,Control
+105,93,54,Medium
+122,83,52,High
+107,92,55,Medium
+99,105,61,Very Low
+124,95,48,High
+112,84,63,Medium-High
+111,83,41,High
+104,105,38,Low
+115,89,54,Medium-High
+109,105,46,Low
+75,84,92,Control
+119,83,48,High
+110,93,53,Medium
+91,108,47,Very Low
+104,104,42,Low
+97,96,52,Very Low
+124,87,45,High
+108,87,53,Medium
+82,97,92,Control
+101,102,51,Low
+83,89,80,Control
+105,98,54,Medium
+116,87,63,Medium-High
+102,108,49,Very Low
+110,74,54,Medium-High
+97,109,58,Very Low
+102,113,47,Very Low
+110,91,60,Medium
+103,107,40,Low
+111,79,67,Medium-High
+101,90,49,Medium
+104,92,56,Medium
+111,92,65,Medium-High
+103,106,49,Low
+93,102,47,Very Low
+78,83,94,Control
+105,84,65,Medium-High
+101,93,43,Low
+128,83,45,High
+90,83,94,Control
+130,93,48,High
+108,82,64,Medium-High
+123,87,48,High
+102,97,47,Low
+104,105,56,Very Low
+132,85,46,High
+85,83,90,Control
+91,108,51,Very Low
+99,95,45,Low
+94,108,59,Very Low
+110,76,56,Medium-High
+112,86,54,Medium-High
+109,90,58,Medium
+99,108,57,Very Low
+111,87,46,High
+112,84,63,Medium-High
+104,86,54,Medium
+100,100,42,Low
+124,90,35,High
+81,85,86,Control
+122,80,44,High
+90,86,96,Control
+117,74,48,High
+107,79,56,Medium-High
+108,76,54,Medium-High
+97,91,52,Medium
+104,97,45,Low
+100,107,58,Very Low
+102,111,48,Very Low
+101,102,53,Very Low
+112,83,45,High
+99,113,56,Very Low
+74,92,85,Control
+112,84,51,Medium-High
+124,83,53,Medium-High
+85,79,93,Control
+104,102,44,Low
+105,80,54,Medium-High
+95,90,84,Control
+98,100,52,Very Low
+102,101,44,Low
+76,86,78,Control
+108,91,49,Medium
+106,105,35,Low
+105,78,57,Medium-High
+82,76,87,Control
+88,108,50,Very Low
+111,84,45,High
+111,99,54,Medium
+98,101,49,Very Low
+122,82,42,High
+86,77,85,Control
+100,92,53,Medium
+100,112,47,Very Low
+105,86,62,Medium-High
+77,86,87,Control
+102,113,49,Very Low
+115,76,55,Medium-High
+130,84,45,High
+111,98,52,Medium
+114,89,46,High
+105,91,53,Medium
+84,86,92,Control
+83,85,93,Control
+93,98,49,Very Low
+74,73,88,Control
+101,96,43,Low
+102,106,49,Low
+103,114,39,Low
+102,104,42,Low
+98,105,50,Very Low
+127,90,47,High
+107,94,54,Medium
+94,86,91,Control
+109,84,60,Medium-High
+95,106,53,Very Low
+111,101,50,Low
+96,116,41,Very Low
+103,101,54,Low
+119,92,61,Medium-High
+75,84,95,Control
+119,84,48,High
+82,88,85,Control
+105,83,56,Medium-High
+112,93,49,Medium
+101,103,50,Low
+101,104,48,Low
+100,115,46,Very Low
+101,107,54,Very Low
+116,90,46,High
+111,96,51,Medium
+109,91,50,Medium
+101,92,62,Medium
+102,96,37,Low
+97,103,55,Very Low
+81,85,80,Control
+82,74,81,Control
+112,90,61,Medium-High
+118,89,49,High
+93,95,49,Very Low
+104,105,48,Low
+102,104,44,Low
+105,101,44,Low
+96,108,51,Very Low
+122,93,46,High
+115,86,59,Medium-High
+112,90,49,Medium
+100,101,49,Low
+110,98,52,Medium
+105,111,45,Low
+108,90,63,Medium-High
+76,84,88,Control
+78,87,84,Control
+99,103,47,Low
+98,102,47,Low
+96,105,57,Very Low
+111,84,54,Medium-High
+87,105,42,Very Low
+119,84,51,High
+101,101,48,Low
+104,103,44,Low
+106,104,50,Low
+123,84,39,High
+100,113,56,Very Low
+113,85,53,Medium-High
+98,108,56,Very Low
+119,83,46,High
+100,102,39,Low
+113,80,57,Medium-High
+91,104,42,Very Low
+104,99,42,Low
+108,84,48,Medium
+123,84,39,High
+118,96,56,Medium
+99,103,57,Very Low
+105,93,48,Medium
+111,83,60,Medium-High
+115,93,48,Medium
+109,94,57,Medium
+85,82,90,Control
+114,103,42,Low
+107,96,56,Medium
+114,90,56,Medium-High
+111,94,54,Medium
+110,97,60,Medium
+96,105,49,Very Low
+114,77,61,Medium-High
+112,85,51,Medium-High
+111,91,50,Medium
+104,83,46,Medium
+101,106,49,Very Low
+91,98,48,Very Low
+113,93,56,Medium
+83,88,81,Control
+123,79,36,High
+116,88,57,Medium-High
+107,93,63,Medium
+116,92,58,Medium-High
+78,87,76,Control
+107,83,57,Medium-High
+115,86,42,High
+121,79,45,High
+113,86,56,Medium-High
+108,85,53,Medium-High
+111,84,58,Medium-High
+82,92,83,Control
+96,102,45,Very Low
+82,88,92,Control
+85,81,75,Control
+127,88,49,High
+74,83,84,Control
+90,97,47,Very Low
+121,86,46,High
+123,93,39,High
+101,107,47,Very Low
+92,115,47,Very Low
+121,93,49,High
+94,84,79,Control
+95,97,45,Low
+90,104,58,Very Low
+95,107,50,Very Low
+97,107,50,Very Low
+89,88,85,Control
+113,92,50,Medium
+90,86,80,Control
+109,90,60,Medium-High
+105,105,45,Low
+99,99,55,Very Low
+112,95,58,Medium
+118,89,51,High
